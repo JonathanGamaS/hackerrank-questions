@@ -1,0 +1,1 @@
+Conjunto de questões resolvidas no site https://www.hackerrank.com
