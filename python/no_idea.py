@@ -7,8 +7,8 @@ If i E B, you add -1 to your happiness. Otherwise, your happiness does not chang
 """
 
 def no_idea():
-    n,m=(int(x) for x in input().split())
-    N=list(int(x) for x in input().split())
+    n , m =(int(x) for x in input().split())
+    N = list(int(x) for x in input().split())
     A,B=set(int(x) for x in input().split()), set(int(x) for x in input().split())
     hap=0
     test=set()
