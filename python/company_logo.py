@@ -26,4 +26,4 @@ def problem_solution():
     
 
 if __name__ == '__main__':
-    main()
+    problem_solution()
